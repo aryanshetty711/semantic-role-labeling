@@ -8,4 +8,5 @@
 - `Token Embeddings`, `POS embeddings` and `BIO embeddings` of each sentence are concatenated.
 - This concatenated input is given to `BiLSTM` model.
 - The model outputs 2 tags `Arg1` or `Not Arg1`.
+- Made in collaboration with [Srushti Pawar] (https://www.linkedin.com/in/pawarsrushti/) and [Simran Makariye] (https://www.linkedin.com/in/simran-makariye-398305149/)
 ![Model Architecture](model_architecture.png)
